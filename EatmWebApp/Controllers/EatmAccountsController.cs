@@ -126,7 +126,7 @@ namespace EatmWebApp.Controllers
             if (tCount < 3)
             {
 
-                if (BalanceCheck != null && balance <= 1000)
+                if (BalanceCheck != null && balance <= 1000 && balance > 0)
                 {
 
                     var BalanceWithdraw = BalanceCheck.Balance - balance;
