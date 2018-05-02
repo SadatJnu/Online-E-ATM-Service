@@ -12,6 +12,7 @@
 </ul>
 <p><b>Technologies :</b></p>
 <ul>
+ <li>C# Language</li>
 <li>Entity Framework.</li>
 <li>MVC code first approach.</li>
 <li>SQL server local DB.</li>
