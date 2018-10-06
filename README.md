@@ -14,7 +14,7 @@
 <ul>
  <li>C# Language</li>
 <li>Entity Framework.</li>
-<li>MVC code first approach.</li>
-<li>SQL server local DB.</li>
+<li>MVC code First Approach.</li>
+<li>SQL server Local DB.</li>
 <li>Bootstrap.</li>
 </ul>
